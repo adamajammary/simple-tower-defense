@@ -2,4 +2,4 @@
 Simple Tower Defense (Unity 5.x, C#) (Solo Game Jam, Ludum Dare)
 
 ## Live demo
-http://jammary.com/simple-tower-defense/
+https://simple-tower-defense.jammary.com/
